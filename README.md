@@ -47,4 +47,5 @@ This project explores the integration of sentiment analysis and machine learning
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Solutionuc/forex-sentiment-analysis.git
+   git clone https://github.com/Solutionuc/Analysing-The-Impact-of-Open-Source-Data-In-The-Forex-Market.git
+
